@@ -1,11 +1,9 @@
 section .data
 EXIT_SUCCESS equ    0
 SYS_exit  equ      60
-;--------------------------------------------------
 
 section .bss
 array       resd     10
-
 
 section .text
 global _start
