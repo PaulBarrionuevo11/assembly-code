@@ -1,6 +1,6 @@
 ; Classwork 6 - Assembly Lenguage
-; eax will be store in result register
-; edi will be the first arg on function
+; Author: Paul Barrionuevo
+; Notes: count the number of bits in a number. Int count_bits(int x); 
 
 section .text
 global bit_count
